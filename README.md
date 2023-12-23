@@ -1,4 +1,4 @@
-# Telecom-Trends-Before-Post-5G-launch-
+# Telecom-Trends-Before-After-5G-launch-
 
 Domain:  Telecom    
 Function: Executive Management
